@@ -134,4 +134,4 @@ If you have suggestions for improvements:
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mit
